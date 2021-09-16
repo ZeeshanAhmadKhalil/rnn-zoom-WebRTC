@@ -38,7 +38,7 @@ class CallScreen extends React.Component {
         })
         .then((stream) => {})
         .catch((error) => {
-          console.log(error);
+          //console.log(error);
         });
     });
   }
